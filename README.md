@@ -1,5 +1,5 @@
 <img width="1920" height="1008" alt="Screenshot 2025-12-31 224036" src="https://github.com/user-attachments/assets/6a559b0c-4aa1-4628-9e0b-96813af91e17" />
-<img width="2992" height="1244" alt="image" src="https://github.com/user-attachments/assets/b8eb649d-e2d4-4bdf-97ff-ff3b005933e9" />
+<img width="2992" height="1244" alt="image" src="https://github.com/user-attachments/assets/f2182495-8316-46c3-8a84-3304f3d15ec4" />
 
 # Full-Stack Application on Kubernetes
 
