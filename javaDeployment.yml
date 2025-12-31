@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: javaapppod
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: javaapp
+  template:
+    metadata:
+      labels:
+        app: javaapp
+    spec:
+      containers:
+        - name: javaapp
+          image: ashish200214/javaapp:fullyfinal
+          ports:
+            - containerPort: 8080
